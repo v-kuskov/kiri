@@ -1,7 +1,4 @@
 [workspace]
-members=[
-    "crates/kiri-core",
-    "crates/kiri-backend"
-]
+members = ["crates/kiri-core", "crates/kiri-backend", "crates/kiri-assets"]
 
 resolver = "2"
