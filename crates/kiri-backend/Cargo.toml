@@ -1,26 +1,3 @@
-[package]
-name = "kiri-backend"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-kiri-core = { path = "../kiri-core" }
-ash =  "0.37.3"
-puffin = "0.17.0"
-ash-window = "0.12.0"
-raw-window-handle = "0.5.2"
-arrayvec = "0.7.4"
-rayon = "1.8.0"
-log = "0.4.20"
-gpu-alloc = "0.6.0"
-gpu-alloc-ash = "0.6.0"
-gpu-descriptor = "0.2.4"
-gpu-descriptor-ash = "0.2.0"
-rspirv-reflect = "0.8.0"
-byte-slice-cast = "1.2.2"
-directories = "5.0.1"
-uuid = "1.4.1"
-siphasher = "1.0.0"
-byteorder = "1.5.0"
-four-cc = "0.3.0"
-parking_lot = "0.12.1"
+version https://git-lfs.github.com/spec/v1
+oid sha256:341088ce87d77fbff127dfe138e3ac880044b34a3d642a8e506503b39d6b6694
+size 522

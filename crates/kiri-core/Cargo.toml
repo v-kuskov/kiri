@@ -1,7 +1,3 @@
-[package]
-name = "kiri-core"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-arrayvec = "0.7.4"
+version https://git-lfs.github.com/spec/v1
+oid sha256:59007f6edb4278c2469dcf1c46c43f2cb4783f160a2e32e53920d5fdb7df64ae
+size 99
